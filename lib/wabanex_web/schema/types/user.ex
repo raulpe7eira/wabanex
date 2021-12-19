@@ -6,6 +6,7 @@ defmodule WabanexWeb.Schema.Types.User do
     field :id, non_null(:uuid4), description: "Users id"
     field :name, non_null(:string), description: "Users name"
     field :email, non_null(:string), description: "Users email"
+    field :trainings, list_of(:training), description: "Users trainings"
   end
 
   @desc "Logic input user representation"
