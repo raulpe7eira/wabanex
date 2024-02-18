@@ -1,6 +1,6 @@
 # Wabanex API
 
-This repository is the code corresponding to the [nlw#6 - trilha elixir](https://nextlevelweek.com/) lab.
+This repository is the code corresponding to the [nlw#6 - trilha elixir](https://nextlevelweek.com/) lab by Rafael Camarda.
 
 > The project simulates a Gym Training management API that allows to register trainings and exercises with GraphQL.
 
